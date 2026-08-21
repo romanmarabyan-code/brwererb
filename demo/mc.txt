@@ -1,1 +1,2 @@
 line 1 for merge-commit strategy
+line 2 for merge-commit strategy
