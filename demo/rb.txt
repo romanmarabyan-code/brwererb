@@ -1,1 +1,2 @@
 line 1 for rebase strategy
+line 2 for rebase strategy
