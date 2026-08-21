@@ -1,0 +1,3 @@
+line 1 for squash strategy
+line 2 for squash strategy
+line 3 for squash strategy
