@@ -23,3 +23,5 @@ Scratch notes for the BER-2/fix branch.
 Time logged on this branch is recorded in commit subjects using the
 `#time` syntax, e.g. `BER-2 #time 2h 30m ...`, so the tracker can pick it
 up from the PR.
+
+<!-- probe: a commit authored on Oct 1, committed today -->
