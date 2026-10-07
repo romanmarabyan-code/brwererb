@@ -1,1 +1,2 @@
 .gh-search__input::-webkit-search-cancel-button { cursor: pointer; }
+.gh-search__input:focus::-webkit-search-cancel-button { opacity: 1; }
