@@ -27,3 +27,4 @@ exist so commits have something to touch.
 
 `main` takes no direct pushes; everything lands through a pull request.
 See the branch workflow doc for the details.
+- The repository filter keeps its value when the page reloads (GD2-7).
