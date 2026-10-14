@@ -10,3 +10,13 @@
   color: var(--ww-text-primary, #1C1B24);
   border: 1px solid var(--ww-border, #EDEDF7);
 }
+
+/* GD2-8 follow-up — the side panel and its dim follow the theme too. */
+.ga-panel {
+  background: var(--ww-content-bg, #FFFFFF);
+  border-left: 1px solid var(--ww-border, #EDEDF7);
+}
+
+.ga-panel-layer__dim {
+  background: var(--ww-overlay, rgba(28, 27, 36, 0.4));
+}
