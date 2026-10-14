@@ -1,3 +1,8 @@
 .gh-search__input::-webkit-search-cancel-button { cursor: pointer; }
 .gh-search__input:focus::-webkit-search-cancel-button { opacity: 1; }
 /* merged the two focus rules */
+
+/* GD2-7: the repository filter keeps its value across a reload. */
+.gh-search__input[data-remembered="true"] {
+  border-color: var(--ww-primary, #8276ff);
+}
