@@ -1,1 +1,12 @@
 .ga-chart--empty { align-items: center; justify-content: center; }
+
+/* GD2-8: the chart frame follows the theme instead of a fixed light grey. */
+.ga-chart__grid {
+  background: var(--ww-border, #EDEDF7);
+}
+
+.ga-chart__tooltip {
+  background: var(--ww-content-bg, #FFFFFF);
+  color: var(--ww-text-primary, #1C1B24);
+  border: 1px solid var(--ww-border, #EDEDF7);
+}
